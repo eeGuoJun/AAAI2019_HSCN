@@ -1,9 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Description:
-This folder contains three files.
-#data_preprocess.py is the python script about data preprocessing.
-#Model.py is the main model implementation.
-#wordvec.py is used to obtain trained word embedding.
+This folder will contain source codes.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Note:
 Since the space is limited, source data can be obtained by the urllink or reference in the paper.
