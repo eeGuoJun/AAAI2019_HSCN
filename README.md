@@ -9,7 +9,7 @@ Please cite our work if you find these resources helpful.
         title = {A Human-like Semantic Cognition Network for Aspect-level Sentiment Classification},
         booktitle = {Proc. AAAI Conf. Artificial Intell. (AAAI)},  
         address = {Honolulu, Hawaii},  
-        pages = {},  
+        pages = {6650-6657},  
         month = {Jan.},
         year = {2019}
     }
